@@ -1,1 +1,1 @@
-# yoda-tranlator
+# yoda-translator
